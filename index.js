@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🌍Watching DGH2 Servers", "🛠️Optimizing Expierence", "🐛Fixing Game Bugs", "🎮Hosting Daily Events"];
+const statusMessages = ["Welcome to Darkness Studios", "❓24/7 Support", "🌍Darkness Studios available across anywhere!"];
 const statusTypes = [ 'dnd', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
