@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Peace out! ✌️", "💲SUBSCRIBE! ITS FREE!", "🤖 I AM A BOT BTW", "🎮AWESOME EVENTS COMING SOON!"];
+const statusMessages = ["Watching all Discord servers"];
 const statusTypes = ['online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
