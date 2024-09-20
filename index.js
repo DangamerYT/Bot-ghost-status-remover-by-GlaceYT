@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Watching all Discord servers", "Subscribe to DangamerYT];
+const statusMessages = ["📽️ Watching YouTube", "🤖 Use my commands!", "🎮 Join awesome events!", "🟥 Subscribe!"];
 const statusTypes = ['online', 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
